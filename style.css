@@ -262,7 +262,7 @@ header{
     ./assets/asset
 } */
 .examples-area a:nth-child(1) {
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./assets/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(../assets/asset\ 36.jpeg);
     background-size: cover;
 }
 .examples-area a:nth-child(1):hover{
