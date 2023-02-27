@@ -187,7 +187,7 @@ header{
 /* features section */
 .features-section {
     padding: 80px var(--padding-inline-section) 0px;
-    background: url('../cloneweb/assets/asset 34.svg') no-repeat center;
+    background: url('./assets/asset 34.svg') no-repeat center;
 
 }
 .features-header {
@@ -259,30 +259,31 @@ header{
 
 /* .examples-area:hover {
     box-shadow: 0 0 20px #888;
+    ./assets/asset
 } */
 .examples-area a:nth-child(1) {
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(../cloneweb/assets/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./assets/asset\ 36.jpeg);
     background-size: cover;
 }
 .examples-area a:nth-child(1):hover{
     box-shadow: 0 0 20px #888;
 }
 .examples-area a:nth-child(2) {
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(../cloneweb/assets/asset\ 37.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./assets/asset\ 37.jpeg);
     background-size: cover;
 }
 .examples-area a:nth-child(2):hover{
     box-shadow: 0 0 20px #888;
 }
 .examples-area a:nth-child(3) {
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(../cloneweb/assets/asset\ 38.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./assets/asset\ 38.jpeg);
     background-size: cover;
 }
 .examples-area a:nth-child(3):hover{
     box-shadow: 0 0 20px #888;
 }
 .examples-area a:nth-child(4) {
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(../cloneweb/assets/asset\ 39.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./assets/asset\ 39.jpeg);
     background-size: cover;
 }
 .examples-area a:nth-child(4):hover{
